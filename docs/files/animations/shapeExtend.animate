@@ -1,0 +1,17 @@
+/* 
+  Name:			ShapeExtend
+  Type:			Entrance
+  Description:	ShapeExtend
+  Version:		2.0	
+  locale:		{"zh-Hans":"图形伸展", "en-US":"ShapeExtend"}
+  Class:        ShapeExtend
+  Parameter:    <^   {"Options":{"eShape":0}}   $>
+ */
+ 
+@keyframes shapeExtend{
+	
+}
+
+.shapeExtend{
+	animation-duration: 2s;
+}
